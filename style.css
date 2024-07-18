@@ -88,13 +88,13 @@ header{
 .box{
     width: 200px;
     height: 200px;
-    background-color: white;
+/*     background-color: white; */
     margin-right: 50px;
     margin-left: 50px;
     border-radius: 10px;
     text-align: center;
     font-size: 20px;
-    color: black;
+    color: white;
 }
 .do{
     display: flex;
